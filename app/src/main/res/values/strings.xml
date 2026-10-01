@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">S22 Tab Pen Sync</string>
+    <string name="receiver_mode">Receiver Mode</string>
+    <string name="sender_mode">Sender Mode</string>
+    <string name="connection_status">Connection Status</string>
+    <string name="not_connected">Not Connected</string>
+    <string name="connected">Connected</string>
+    <string name="enter_tablet_ip">Enter Tablet IP</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="enable_accessibility">Enable Accessibility Service</string>
+    <string name="use_root_backend">Use Root Backend</string>
+    <string name="listening_for_input">Listening for Input...</string>
+    <string name="backend_status">Backend: </string>
+    <string name="accessibility">Accessibility</string>
+    <string name="root">Root (sendevent)</string>
+</resources>

@@ -1,0 +1,2 @@
+rootProject.name = 'S22TabPenSync'
+include ':app'
